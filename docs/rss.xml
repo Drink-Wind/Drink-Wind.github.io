@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>饮风的博客</title><link>https://Drink-Wind.github.io</link><description>关于我的一切</description><copyright>饮风的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/202397234?v=4&amp;size=64</url><title>avatar</title><link>https://Drink-Wind.github.io</link></image><lastBuildDate>Wed, 03 Jun 2026 06:58:07 +0000</lastBuildDate><managingEditor>饮风的博客</managingEditor><ttl>60</ttl><webMaster>饮风的博客</webMaster><item><title>目录</title><link>https://Drink-Wind.github.io/post/mu-lu.html</link><description>&lt;details&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>饮风的博客</title><link>https://Drink-Wind.github.io</link><description>关于我的一切</description><copyright>饮风的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/202397234?v=4&amp;size=64</url><title>avatar</title><link>https://Drink-Wind.github.io</link></image><lastBuildDate>Wed, 03 Jun 2026 07:01:29 +0000</lastBuildDate><managingEditor>饮风的博客</managingEditor><ttl>60</ttl><webMaster>饮风的博客</webMaster><item><title>目录2</title><link>https://Drink-Wind.github.io/post/mu-lu-2.html</link><description># 📂 博客全景目录
+
+* 🛠️ **技术栈**
+    * 🌐 **前端开发**
+        * [如何优化 Gmeek 博客加载速度](/post/ru-he-you-hua-Gmeek.html)
+        * [CSS 阴影高级技巧](/post/css-yin-ying.html)
+    * 💾 **后端基础**
+        * [Node.js 异步机制详解](/post/nodejs-yi-bu.html)
+* 📝 **日常随笔**
+    * [2026 年年中总结](/post/2026-nian-zhong.html)。</description><guid isPermaLink="true">https://Drink-Wind.github.io/post/mu-lu-2.html</guid><pubDate>Wed, 03 Jun 2026 07:01:03 +0000</pubDate></item><item><title>目录</title><link>https://Drink-Wind.github.io/post/mu-lu.html</link><description>&lt;details&gt;
   &lt;summary&gt;📂 &lt;b&gt;技术文章 (点击展开)&lt;/b&gt;&lt;/summary&gt;
   
   &lt;ul&gt;
