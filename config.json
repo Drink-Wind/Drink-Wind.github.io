@@ -6,8 +6,8 @@
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "singlePage":["about"],
     "nav": {
-    "首页": "/",
-    "目录": "/post/mu-lu-2.html",
+    "首页": "https://drink-wind.github.io/",
+    "目录": "https://drink-wind.github.io/post/mu-lu-2.html"
 },
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>"
 }
