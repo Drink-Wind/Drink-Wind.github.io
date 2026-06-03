@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>饮风的博客</title><link>https://Drink-Wind.github.io</link><description>关于我的一切</description><copyright>饮风的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/202397234?v=4&amp;size=64</url><title>avatar</title><link>https://Drink-Wind.github.io</link></image><lastBuildDate>Mon, 01 Jun 2026 01:17:40 +0000</lastBuildDate><managingEditor>饮风的博客</managingEditor><ttl>60</ttl><webMaster>饮风的博客</webMaster><item><title>夏</title><link>https://Drink-Wind.github.io/post/xia.html</link><description>---
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>饮风的博客</title><link>https://Drink-Wind.github.io</link><description>关于我的一切</description><copyright>饮风的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/202397234?v=4&amp;size=64</url><title>avatar</title><link>https://Drink-Wind.github.io</link></image><lastBuildDate>Wed, 03 Jun 2026 06:58:07 +0000</lastBuildDate><managingEditor>饮风的博客</managingEditor><ttl>60</ttl><webMaster>饮风的博客</webMaster><item><title>目录</title><link>https://Drink-Wind.github.io/post/mu-lu.html</link><description>&lt;details&gt;
+  &lt;summary&gt;📂 &lt;b&gt;技术文章 (点击展开)&lt;/b&gt;&lt;/summary&gt;
+  
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href='/post/xxx.html'&gt;文章 1：前端性能优化&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href='/post/yyy.html'&gt;文章 2：JavaScript 闭包&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/details&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;📂 &lt;b&gt;生活随笔 (点击展开)&lt;/b&gt;&lt;/summary&gt;
+  
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href='/post/zzz.html'&gt;文章 3：旅行日记&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/details&gt;。</description><guid isPermaLink="true">https://Drink-Wind.github.io/post/mu-lu.html</guid><pubDate>Wed, 03 Jun 2026 06:55:25 +0000</pubDate></item><item><title>夏</title><link>https://Drink-Wind.github.io/post/xia.html</link><description>---
 
 &amp;emsp;对于夏天我还用多说吗？潮湿的空气，毒辣的太阳，裸露的皮肤，满眼的绿色，未知的相遇，不堪的回忆。</description><guid isPermaLink="true">https://Drink-Wind.github.io/post/xia.html</guid><pubDate>Sat, 30 May 2026 15:29:18 +0000</pubDate></item><item><title>F</title><link>https://Drink-Wind.github.io/post/F.html</link><description>
 ---
